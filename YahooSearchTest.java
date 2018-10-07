@@ -17,7 +17,7 @@ public class YahooSearchTest {
     }
 
     @Test
-    public void testYahoo() {
+    public void TESTTESTTESTYahoo() {
         navigatingToMainPage();
         typeRequestInSearchInput();
         submitSearch();
